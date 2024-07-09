@@ -1,0 +1,8 @@
+{
+  "name": "http-errors-js",
+  "version": "1.0.0",
+  "description": "This package provides a comprehensive set of custom HTTP error classes",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
+}
